@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 8px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+    color: white;
+}
